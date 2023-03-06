@@ -7,7 +7,7 @@ Here you found projects about WEB, Front-end, Back-end and others technologies. 
 
 ### The main projects that I working 
 
-- <a href="https://blocksfall.io">Blocks' Fall</a>
+- <a href="https://github.com/LuSrodri/blocksfall">Blocks' Fall</a>
 - <a href="https://github.com/LuSrodri/Fundamentos-React">Learning React</a>
 - <a href="https://github.com/LuSrodri/PA6-Facens-BlockGame">Tetris Multiplayer</a>
 - <a href="https://github.com/LuSrodri/vue-vuex-router-axios">Good Movies</a>
