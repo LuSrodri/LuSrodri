@@ -13,6 +13,6 @@ Main Stats             |  Most Used Languages
 
 ### 🫂 Social Medias
 
-[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-rodrigues/) [![](https://img.shields.io/badge/-Instagram-%23833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devdemais/) 
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-rodrigues/)
 
 ### Follow me :)
