@@ -18,6 +18,5 @@ Main Stats             |  Most Used Languages
 ### Follow me :)
 
 ## ✨ Look at my apps ✨
-[**Money is Live 💸** A new way to follow investing and corporate news](https://moneyislive.lusrodri.me/)
 
 [**Sem fundos 🏖️** A simple, easy, free and privacity way to remove backgrounds from images](https://semfundos.lusrodri.me/)
