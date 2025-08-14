@@ -15,8 +15,11 @@ Main Stats             |  Most Used Languages
 
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-rodrigues/)
 
-### Follow me :)
-
 ## ✨ Look at my apps ✨
 
-[**Sem fundos 🏖️** A simple, easy, free and privacity way to remove backgrounds from images](https://semfundos.lusrodri.me/)
+[**I Hate Background!** A simple, easy, free and privacity way to remove backgrounds from images](https://ihatebackground.com)
+
+#### _Incentives me to keep going!_
+
+[☕ Buy me a coffe.](https://buymeacoffee.com/lusrodri)
+
