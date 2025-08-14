@@ -21,5 +21,5 @@ Main Stats             |  Most Used Languages
 
 #### _Incentives me to keep going!_
 
-[☕ Buy me a coffe.](https://buymeacoffee.com/lusrodri)
+[☕ Buy me a coffee.](https://buymeacoffee.com/lusrodri)
 
