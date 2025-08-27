@@ -18,8 +18,3 @@ Main Stats             |  Most Used Languages
 ## ✨ Look at my apps ✨
 
 [**I Hate Background!** A simple, easy, free and privacity way to remove backgrounds from images](https://ihatebackground.com)
-
-#### _Incentives me to keep going!_
-
-[☕ Buy me a coffee.](https://buymeacoffee.com/lusrodri)
-
