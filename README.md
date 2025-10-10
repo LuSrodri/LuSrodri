@@ -21,4 +21,4 @@ Main Stats             |  Most Used Languages
 
 ## 🤝 Contributing with the open-source AI principle
 
-[**See my last contribution in Transformers.js HF Library**](https://github.com/huggingface/transformers.js/releases/tag/3.4.1)
+[**See my last contribution in Transformers.js Hugging Face Library**](https://github.com/huggingface/transformers.js/releases/tag/3.4.1)
