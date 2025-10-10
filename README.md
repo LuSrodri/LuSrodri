@@ -18,3 +18,7 @@ Main Stats             |  Most Used Languages
 ## ✨ Look at my apps ✨
 
 [**I Hate Background!** A simple, easy, free and privacity way to remove backgrounds from images](https://ihatebackground.com)
+
+## 🤝 Contributing with the open-source AI principle
+
+[**See my last contribution in Transformers.js HF Library**](https://github.com/huggingface/transformers.js/releases/tag/3.4.1)
