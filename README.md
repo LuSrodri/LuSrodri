@@ -11,7 +11,11 @@ Also you can see some projects about WEB, Front-end, Back-end and others archite
 
 ## ✨ Look at my apps ✨
 
-[**I Hate Background!** A simple, easy, free and privacity way to remove backgrounds from images](https://ihatebackground.com)
+[**Logus Cloud** — Giving visibility to your professional impact](https://logus.cloud)
+
+[**I Hate Background!** — A simple, easy, free and privacity way to remove backgrounds from images](https://ihatebackground.com)
+
+[**Check Before Click** — A game to test your reaction time and fast thinking](https://checkbefore.click)
 
 ## 🤝 Contributing with the open-source AI principle
 
