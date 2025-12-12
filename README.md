@@ -13,6 +13,8 @@ Also you can see some projects about WEB, Front-end, Back-end and others archite
 
 [**Logus Cloud** — Giving visibility to your professional impact](https://logus.cloud)
 
+[**educando.app** — Very easy, simple, free app to make your activities following the BNCC (Base Nacional Comum Curricular) using AI](https://educando.app)
+
 [**I Hate Background!** — A simple, easy, free and privacity way to remove backgrounds from images](https://ihatebackground.com)
 
 [**Check Before Click** — A game to test your reaction time and fast thinking](https://checkbefore.click)
