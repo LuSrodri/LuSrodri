@@ -5,10 +5,6 @@ I'm Software Engineer and here you can find some contribuited repositories and p
 
 Also you can see some projects about WEB, Front-end, Back-end and others architetures. Feel free to use, copy or contribution the codes of my public repositories.
 
-### 🫂 Social Medias
-
-[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-rodrigues/)
-
 ## ✨ Look at my apps ✨
 
 [**Logus Cloud** — Giving visibility to your professional impact](https://logus.cloud)
